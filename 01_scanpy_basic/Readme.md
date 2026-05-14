@@ -18,6 +18,11 @@ at runtime with no manual download required.
 
 All steps were run on Google Colab.
 
+## Link to the Notebook
+
+There was an issue in the rendering of this notebook with outputs on the github so please find link to the notebook showing all outputs here:
+[Notebook](https://colab.research.google.com/drive/1Gz4v_M0-BBWKtpNS3thQ53uP47fN7QA4?usp=sharing)
+
 ## Dependencies
 
 ```python
