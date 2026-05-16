@@ -20,6 +20,10 @@ is required.
 
 All steps were run on Google Colab.
 
+## Link
+
+Please find link to the notebook here: [Notebook](https://colab.research.google.com/drive/1veFnZQuz48Y23NaxmlrqgGf6YIXjor2k?usp=sharing)
+
 ## Dependencies
 
 ```python
