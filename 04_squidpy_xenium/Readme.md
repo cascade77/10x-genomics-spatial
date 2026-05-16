@@ -30,6 +30,10 @@ curl -O https://cf.10xgenomics.com/samples/xenium/2.0.0/Xenium_V1_human_Lung_2fo
 
 All steps were run on Google Colab.
 
+## Link
+
+Please find link to the colab notebook here : [Notebook](https://colab.research.google.com/drive/1abPfZiD-TNdYkewGX_oGDJflrslerh2A?usp=sharing)
+
 ## Dependencies
 
 ```python
